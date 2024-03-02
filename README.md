@@ -6,7 +6,7 @@ Here is a cheat sheet I made for Topic 18 of the Pragmatic Programmer on editor 
 
 | Category           | Shortcut                | Action                                            |
 |--------------------|-------------------------|---------------------------------------------------|
-| General            | command pallete         | Finds action and keyboard shortcuts                |
+| General            | shift + cmd + p         | Command pallette, finds action and keyboard shortcuts                |
 | Text editing       | < / >                   | Character move                                    |
 |                    | alt + < / >             | Word move                                         |
 |                    | cmd + < / >             | Line move                                         |
