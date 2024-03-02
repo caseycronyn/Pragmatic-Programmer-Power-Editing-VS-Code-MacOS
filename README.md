@@ -2,7 +2,7 @@
 ## Power Editing
 ## VS Code, macOS, cheat sheet
 
-Here is a cheat sheet I made for Topic 18 of the Pragmatic Programmer on editor fluency. It contains all of the challenges listed on pages 81/ 82 of the 20th Anniversary Edition, and it is for macOS.
+Here is a cheat sheet I made for Topic 18 of the Pragmatic Programmer on editor fluency. It contains all of the challenges listed in chronological order on pages 81/ 82 of the 20th Anniversary Edition, and it is for macOS.
 
 | Category           | Shortcut                | Action                                            |
 |--------------------|-------------------------|---------------------------------------------------|
